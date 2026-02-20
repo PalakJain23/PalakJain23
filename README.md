@@ -1,4 +1,5 @@
-Hi, I'm Palak Jain
+                             Hey! I’m Palak Jain 😎
+
 
 I’m an Integrated M.Tech student specializing in Artificial Intelligence at VIT Bhopal.
 I love building real-world projects, exploring AI/ML, and creating clean, impactful solutions through code.
