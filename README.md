@@ -39,7 +39,6 @@ Git · GitHub · VS Code · Jupyter · Firebase
 - Research on AI and its real-world impact  
 
 ---
-
 ## 📫 Connect With Me
 📧 **Email:** jainpalak1617@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/palak-jain-3706b0311/  
