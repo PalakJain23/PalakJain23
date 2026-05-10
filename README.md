@@ -10,7 +10,6 @@ My GitHub is where I document my learning journey — **step by step, project by
 - 🎓 AI specialization student at **Vellore Institute of Technology, Bhopal**
 - 🤖 Passionate about **AI, Machine Learning, and Intelligent Systems**
 - 🌐 Exploring **Full-Stack Development**
-- ☁️ Currently learning **Soft Computing (NPTEL)**
 - 🧠 Strong foundations in **Python, Java, SQL, DSA, DBMS**
 - 🏆 Actively participate in **hackathons & tech events**
 - 📚 Believe in **continuous learning and self-improvement**
